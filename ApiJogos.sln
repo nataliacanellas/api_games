@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiJogos", "ApiJogos\ApiJogos.csproj", "{65ABAED5-D7BC-493E-82E8-75B796F07C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{CDBB86C5-A088-4709-B880-C78E6D895B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65ABAED5-D7BC-493E-82E8-75B796F07C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ABAED5-D7BC-493E-82E8-75B796F07C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ABAED5-D7BC-493E-82E8-75B796F07C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ABAED5-D7BC-493E-82E8-75B796F07C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBB86C5-A088-4709-B880-C78E6D895B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBB86C5-A088-4709-B880-C78E6D895B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBB86C5-A088-4709-B880-C78E6D895B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBB86C5-A088-4709-B880-C78E6D895B16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD9FBA2-65E8-4346-97BC-7BCD73A08EF9}
+	EndGlobalSection
+EndGlobal
